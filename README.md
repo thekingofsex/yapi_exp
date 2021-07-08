@@ -3,7 +3,8 @@ yapi接口管理平台exp
 
 
 ##usage
-go run yapi.go -cmd whoami -url http://210.242.163.212:9090
+### go run yapi.go -cmd whoami -url http://xxx.xxx.xxx.xxx:8080
 
+#### go run yapi.go -h 查看使用说明
 
-![image](https://user-images.githubusercontent.com/38530231/124989726-06359300-e072-11eb-864d-98299f8187fa.png)
+![image](https://user-images.githubusercontent.com/38530231/124989827-25ccbb80-e072-11eb-855b-198b3ed8ea1b.png)
